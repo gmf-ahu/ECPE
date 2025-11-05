@@ -6,8 +6,6 @@ The repository of Entropy Calibrated Prototype Embedding for Transductive Few-Sh
 conda env create -f environment.yaml
 ```
 
-## config
-The configuration can be 
 
 ## Run
 
