@@ -1,0 +1,5 @@
+dataset: 'cub'
+model_name: 'wideres28'
+queries: 15
+classifier: group
+omega: 0.3
