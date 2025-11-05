@@ -1,6 +1,0 @@
-dataset: 'cub'
-model_name: 'resnet18'
-queries: 15
-classifier: group
-num_classes: 100
-omega: 0.3

@@ -1,4 +1,0 @@
-dataset: 'mini'
-model_name: 'resnet18'
-queries: 15
-classifier: baseline

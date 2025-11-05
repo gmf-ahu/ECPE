@@ -1,5 +1,0 @@
-dataset: 'cub'
-model_name: 'resnet12'
-queries: 15
-classifier: baseline
-

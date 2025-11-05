@@ -1,4 +1,0 @@
-dataset: 'cub'
-model_name: 'wideres28'
-queries: 15
-classifier: baseline

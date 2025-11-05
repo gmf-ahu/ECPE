@@ -1,4 +1,0 @@
-dataset: 'tiered'
-model_name: 'wideres28'
-queries: 15
-classifier: group
